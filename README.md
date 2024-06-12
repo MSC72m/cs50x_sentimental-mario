@@ -1,7 +1,4 @@
-# Pyramid
-
-## Project Description
-This project is a simple command-line program that prompts the user to enter a height and builds a pyramid of that height using the `#` character. The program ensures the height is between 1 and 8, inclusive.
+# Mario
 
 ## Table of Contents
 - [Installation](#installation)
